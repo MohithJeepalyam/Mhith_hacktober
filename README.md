@@ -1,2 +1,2 @@
-# Mhith_hacktober
+# Mohith_hacktober
 IOTA HACKTOBER FEST
